@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Abid Shahriar👋</h1>
+<h1 align="center">Hey! I'm Abid 👋</h1>
 <h3 align="center">Python developer from Bangladesh.</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abidswapnil&show_icons=true&locale=en" alt="abid" /></p>
